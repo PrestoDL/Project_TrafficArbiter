@@ -5,6 +5,8 @@ Used SUMO and TraCI(Python module for SUMO config) for real-life traffic map
 
 committed in AI-SSOC LAB
 
+![result](https://github.com/user-attachments/assets/1d7cb3ed-d5f7-4d41-997b-03628dd34b20)
+
 my Paper about the research :
 
 https://ieeexplore.ieee.org/document/10575968
